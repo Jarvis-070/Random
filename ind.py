@@ -2,4 +2,4 @@ import os
 os.system("git pull")
 
 import MH0
-MH0.menu()
+MH0.RDJ()
