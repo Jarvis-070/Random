@@ -1,5 +1,5 @@
 import os
 os.system("git pull")
 
-import MH0
-MH0.pasuu() 
+import test
+test.pasuu() 
